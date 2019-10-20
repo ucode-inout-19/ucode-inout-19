@@ -30,13 +30,16 @@ All the 3 platforms heavily use SocketIO to ensure all the data is updated in re
 
 ## Glimpses
 ![Home screen of the app](https://i.imgur.com/UjGyXqs.png)
+iOS: Onboarding for Ambulance Paramedic
 
 ![Map screen](https://i.imgur.com/pIKH4Ya.png)
+iOS: Request admission of a patient, this will ping all the hospitals nearby and help them prepare for incoming patient.
 
 ![After acceptance by hospital](https://i.imgur.com/C76rqQC.png)
+iOS: Using Google Maps API, drivers are able to get along the fastest route to save precious lives!
 
 ![Hospital facing dashboard showing insights](https://i.imgur.com/FA1PNDqg.png)
-
+MERN: Hospital Reception Dashboard
 
 ## Conclusion
 
