@@ -39,6 +39,7 @@ iOS: Request admission of a patient, this will ping all the hospitals nearby and
 iOS: Using Google Maps API, drivers are able to get along the fastest route to save precious lives!
 
 ![Hospital facing dashboard showing insights](https://i.imgur.com/FA1PNDqg.png)
+
 MERN: Hospital Reception Dashboard
 
 ## Conclusion
