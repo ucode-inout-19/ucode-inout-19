@@ -28,6 +28,16 @@ The web application which is used by the hospital staff is written in React and 
 
 All the 3 platforms heavily use SocketIO to ensure all the data is updated in real time and the parties involved do not need to refresh the page to get the updated data.
 
+## Glimpses
+![Home screen of the app](https://i.imgur.com/UjGyXqs.png)
+
+![Map screen](https://i.imgur.com/pIKH4Ya.png)
+
+![After acceptance by hospital](https://i.imgur.com/C76rqQC.png)
+
+![Hospital facing dashboard showing insights](https://i.imgur.com/FA1PNDqg.png)
+
+
 ## Conclusion
 
 We strongly beleive that FastTrack will help save many lives using modern technologies, and will make the healthcare system much more ef
